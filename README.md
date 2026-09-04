@@ -1,91 +1,169 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="left">
-<a href="https://twitter.com/MairaAbhishek" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/abhishek_maira10/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/8q058td4ynjeztfx5io86m5pt" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/visual-studio.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/moataz-abdelsalam-1a6270306/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
+  </a>
 </p>
 
 <br>
 
-Hi, I'm [Abhishek Maira](https://www.abhishekmaira.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
-I support Manchester United 👿 and Barcelona 😎.
+Hi, I'm **Moataz Abdelsalam** 👋, a **Data Analyst 📊 and UI/UX Designer 🎨**.
+
+I'm a Computer Science student passionate about **Data Analysis, Data Visualization, and User Experience Design**.
+I enjoy turning raw data into meaningful insights and creating simple, intuitive, and user-friendly digital experiences.
+
+I'm constantly learning and improving my skills in **Data Analytics, Business Intelligence, UI/UX Design, and Problem Solving**.
 
 <br>
-
-
-<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
- - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
- - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
- 
- <br>
+* 📊 **Data Analyst** — Excel, SQL, Power BI & Python
+* 🎨 **UI/UX Designer** — Figma & User-Centered Design
+* 📈 Interested in **Data Visualization & Business Intelligence**
+* 💡 Passionate about solving problems through data and design
+* 🎓 Computer Science Student
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMaira10" alt="AbhishekMaiara10" /> </p>
- 
- </br>
-
-**Languages and Tools:**
 <br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+### 📫 Contact Me
 
+* 📧 Email: **Coming Soon**
+* 🔗 LinkedIn: [Moataz Abdelsalam](https://www.linkedin.com/in/moataz-abdelsalam-1a6270306/)
+* 🌐 Portfolio: **Coming Soon**
+* 🎨 Behance: **Coming Soon**
 
----
-### 📢 Find me elsewhere
+<br>
+
 <p align="left">
-  <a href="https://www.codechef.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://leetcode.com/abhishekmaira1999/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/abhishekmaira191">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.codewars.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Moataz Abdelsalam" />
 </p>
 
-<hr>
+---
+
+## 📊 Data Analysis Skills
+
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/power-bi-2021.png"></code>
+
+### 🔧 Tools & Technologies
+
+* **Excel**
+
+  * Power Query
+  * Power Pivot
+  * Pivot Tables
+  * Dynamic Dashboards
+
+* **SQL**
+
+  * Data Cleaning
+  * Data Manipulation
+  * Aggregations
+  * Joins
+  * Views
+
+* **Python**
+
+  * Pandas
+  * NumPy
+  * Matplotlib
+  * Data Cleaning & Analysis
+
+* **Power BI**
+
+  * Data Visualization
+  * Dashboards
+  * Data Modeling
+  * DAX
+
+---
+
+## 🎨 UI/UX Design
+
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+
+### Design Skills
+
+* UI Design
+* UX Design
+* User Research
+* Wireframing
+* Prototyping
+* Design Systems
+* User-Centered Design
+* Mobile App Design
+* Figma
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 E-Commerce Sales Analytics Dashboard
+
+**Tools:** Excel • Power Query • Power Pivot • Pivot Tables • Data Visualization
+
+> An interactive dashboard for analyzing e-commerce sales, profits, customers, products, countries, and sales channels.
+
+🔗 **Repository:** Coming Soon
+
+---
+
+### 🎨 UI/UX Projects
+
+> Mobile application interfaces and user experiences designed using Figma.
+
+🔗 **Figma / Portfolio:** Coming Soon
+
+---
+
+### 📁 More Projects
+
+More Data Analysis and UI/UX projects will be added soon.
+
+---
+
+## 📈 GitHub Stats
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>Click to view my GitHub statistics</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Moataz's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Moataz's GitHub Streak" />
+</p>
 
 </details>
 
-</br>
+---
 
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
-</a>
-<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
-</a>
+## 📚 Certifications
+
+* **Google Data Analytics Professional Certificate**
+* **IBM Data Analyst Professional Certificate**
+* **DEPI – Microsoft Power BI Mastery**
+
+---
+
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### 💙 Thanks for visiting my profile!
+
+**Data • Design • Insights • Creativity**
+
 </div>
