@@ -35,7 +35,7 @@ I'm constantly learning and improving my skills in **Data Analytics, Business In
 
 ### 📫 Contact Me
 
-* 📧 Email: **Coming Soon**
+* 📧 Email: **moatazalhosainy61@gmail.com**
 * 🔗 LinkedIn: [Moataz Abdelsalam](https://www.linkedin.com/in/moataz-abdelsalam-1a6270306/)
 * 🌐 Portfolio: **Coming Soon**
 * 🎨 Behance: **Coming Soon**
