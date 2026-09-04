@@ -40,11 +40,6 @@ I'm constantly learning and improving my skills in **Data Analytics, Business In
 * 🌐 Portfolio: **Coming Soon**
 * 🎨 Behance: **Coming Soon**
 
-<br>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Moataz Abdelsalam" />
-</p>
 
 ---
 
