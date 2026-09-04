@@ -1,169 +1,118 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/moataz-abdelsalam-1a6270306/" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
-  </a>
-</p>
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=x&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-<br>
+[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
+[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
-Hi, I'm **Moataz Abdelsalam** 👋, a **Data Analyst 📊 and UI/UX Designer 🎨**.
 
-I'm a Computer Science student passionate about **Data Analysis, Data Visualization, and User Experience Design**.
-I enjoy turning raw data into meaningful insights and creating simple, intuitive, and user-friendly digital experiences.
+## I'm a Husband, Father, Developer, and Teacher!!
 
-I'm constantly learning and improving my skills in **Data Analytics, Business Intelligence, UI/UX Design, and Problem Solving**.
+- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2025 Goals: Ship more!!
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
-<br>
+### Connect with me:
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-* 📊 **Data Analyst** — Excel, SQL, Power BI & Python
-* 🎨 **UI/UX Designer** — Figma & User-Centered Design
-* 📈 Interested in **Data Visualization & Business Intelligence**
-* 💡 Passionate about solving problems through data and design
-* 🎓 Computer Science Student
+### Languages and Tools:
 
-<br>
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
-### 📫 Contact Me
-
-* 📧 Email: **Coming Soon**
-* 🔗 LinkedIn: [Moataz Abdelsalam](https://www.linkedin.com/in/moataz-abdelsalam-1a6270306/)
-* 🌐 Portfolio: **Coming Soon**
-* 🎨 Behance: **Coming Soon**
-
-<br>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Moataz Abdelsalam" />
-</p>
-
----
-
-## 📊 Data Analysis Skills
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"></code>
-  <code><img height="40" src="https://img.icons8.com/color/48/power-bi-2021.png"></code>
-
-### 🔧 Tools & Technologies
-
-* **Excel**
-
-  * Power Query
-  * Power Pivot
-  * Pivot Tables
-  * Dynamic Dashboards
-
-* **SQL**
-
-  * Data Cleaning
-  * Data Manipulation
-  * Aggregations
-  * Joins
-  * Views
-
-* **Python**
-
-  * Pandas
-  * NumPy
-  * Matplotlib
-  * Data Cleaning & Analysis
-
-* **Power BI**
-
-  * Data Visualization
-  * Dashboards
-  * Data Modeling
-  * DAX
+<br />
+<br />
 
 ---
 
-## 🎨 UI/UX Design
+### 📺 Latest YouTube Videos
 
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+<!-- YOUTUBE:START -->
+- [Cold Starts Kill AI Apps](https://www.youtube.com/shorts/H6RnDFyS-z4)
+- [Is AWS re:Invent Worth It? #aws #reinvent #tech](https://www.youtube.com/shorts/BYgvVIH8-F4)
+- [I stopped using terminal tabs.](https://www.youtube.com/watch?v=sZDjE-9esEg)
+- [Cut Next.js Load Times by 85% With this Deployment Method](https://www.youtube.com/shorts/gSsy7ypKqFY)
+- [Generative UI is the future of AI Interactions!!](https://www.youtube.com/watch?v=goxnUKwwf-I)
+<!-- YOUTUBE:END -->
 
-### Design Skills
-
-* UI Design
-* UX Design
-* User Research
-* Wireframing
-* Prototyping
-* Design Systems
-* User-Centered Design
-* Mobile App Design
-* Figma
+➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 
-## 🚀 Featured Projects
+### 📕 Latest Blog Posts
 
-### 📊 E-Commerce Sales Analytics Dashboard
+<!-- BLOG-POST-LIST:START -->
+- [It’s Happening! Vercel 🤝 MongoDB](https://dev.to/mongodb/its-happening-vercel-mongodb-4527)
+- [The OpenAI Agents SDK for TypeScript is Missing Something—And That’s Ok](https://dev.to/mongodb/the-openai-agents-sdk-for-typescript-is-missing-something-and-thats-ok-1dco)
+- [Building a Chat Application That Doesn&#39;t Forget!](https://dev.to/mongodb/building-a-chat-application-with-mongodb-memory-provider-for-vercel-ai-sdk-56ap)
+- [How Prisma Transforms MongoDB Development &lpar;And Why You Need It&rpar;](https://dev.to/mongodb/how-prisma-transforms-mongodb-development-and-why-you-need-it-34bk)
+- [Top 8 Tips for Using Prisma with MongoDB](https://dev.to/mongodb/top-8-tips-for-using-prisma-with-mongodb-582f)
+<!-- BLOG-POST-LIST:END -->
 
-**Tools:** Excel • Power Query • Power Pivot • Pivot Tables • Data Visualization
-
-> An interactive dashboard for analyzing e-commerce sales, profits, customers, products, countries, and sales channels.
-
-🔗 **Repository:** Coming Soon
-
----
-
-### 🎨 UI/UX Projects
-
-> Mobile application interfaces and user experiences designed using Figma.
-
-🔗 **Figma / Portfolio:** Coming Soon
+➡️ [more blog posts...](https://codestackr.com)
 
 ---
-
-### 📁 More Projects
-
-More Data Analysis and UI/UX projects will be added soon.
-
----
-
-## 📈 GitHub Stats
 
 <details>
-<summary>Click to view my GitHub statistics</summary>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Moataz's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Moataz's GitHub Streak" />
-</p>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/2) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
+2. 💪 Opened PR [#2](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/2) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
+3. 🚀 Published release [v0.1.0](https://github.com/codeSTACKr/anti-slop-slop-canon/releases/tag/v0.1.0) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
+4. 🎉 Merged PR [#1](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/1) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
+5. 💪 Opened PR [#1](https://github.com/codeSTACKr/anti-slop-slop-canon/pull/1) in [codeSTACKr/anti-slop-slop-canon](https://github.com/codeSTACKr/anti-slop-slop-canon)
+<!--END_SECTION:activity-->
 
 </details>
 
----
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-## 📚 Certifications
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-* **Google Data Analytics Professional Certificate**
-* **IBM Data Analyst Professional Certificate**
-* **DEPI – Microsoft Power BI Mastery**
+</details>
 
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-**Data • Design • Insights • Creativity**
-
-</div>
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
