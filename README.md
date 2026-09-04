@@ -23,7 +23,6 @@ I'm constantly learning and improving my skills in **Data Analytics, Business In
 
 <br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 * 📊 **Data Analyst** — Excel, SQL, Power BI & Python
 * 🎨 **UI/UX Designer** — Figma & User-Centered Design
@@ -40,6 +39,11 @@ I'm constantly learning and improving my skills in **Data Analytics, Business In
 * 🌐 Portfolio: **Coming Soon**
 * 🎨 Behance: **Coming Soon**
 
+<br>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Moataz Abdelsalam" />
+</p>
 
 ---
 
